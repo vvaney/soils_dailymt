@@ -1,0 +1,48 @@
+ID,Study,Series ,Test,Site Name,Town- County-State,lon,lat,Planted,Harvested,Species,acres,Soil type and/or CRIFF series
+LCP_PPINE_San_D,LCP PPINES,A,,Sanderson,"Sanderson, Baker County, FL",-82.333775,30.239048,2000,2020,Loblolly,28,"CRIFF D - Leon sand (sandy, siliceous, thermic Aeric Alaquod)"
+LCP_PPINE_Wav_A,LCP PPINES,A,,Waverly,"Waverly, Camden County, GA",-81.755233,31.12504,2000,,Loblolly,28,CRIFF A
+LCP_PPINE_Wal_C,LCP PPINES,A,,Waldo,"Waldo, Alachua County, FL",-82.208827,29.803635,2000,,Slash and mixed loblolly,28,CRIFF C
+LCP_PPINE_Per_C,LCP PPINES,A,,Perry,"Perry, Taylor County, FL",-83.743286,30.156854,2000,2023,Slash and mixed loblolly,28,CRIFF C
+LCP_PPINE_Big_C,LCP PPINES,A,,Big Bend,"St. George, Charlton County, GA",-82.097468,30.476281,2000,,Slash and mixed loblolly,20,CRIFF C
+WG_PPINE_Bog_A,WG PPINES,A,,Bogalusa,"Bogalusa, Washington County, LA",-89.860858,30.869152,2001,,Slash and mixed loblolly,20,Myatt fine sandy loam
+WG_PPINE_DeR_A,WG PPINES,A,,DeRidder,"DeRidder, Beauregard County, LA",-93.359789,30.856645,2002,,Slash and mixed loblolly,20,Caddo-Messer silt loam
+WG_PPINE_Kir,WG PPINES,A,,Kirbyville,"Kirbyville, Jasper County, TX",-93.99407,30.59734,2001,,Slash and mixed loblolly,20,"Kirbyville-Waller association, gently undulating flats"
+LCP_CCLONES1_Oak_F,CCLONES 1  (LCP loblolly) ,B,A,Oakfield,"Oakfield, Worth County, GA",-83.94655,31.743592,2002,,Loblolly,17,
+LCP_CCLONES1_BFG,CCLONES 1  (LCP loblolly) ,B,B,BFGrant,"Putnam County, GA",-83.496534,33.414571,,,Loblolly,,
+LCP_CCLONES1_Pal_C,CCLONES 1  (LCP loblolly) ,B,C,Palatka,"Palatka, Putnam County, FL",-81.740298,29.640283,2002,,Loblolly,17,CRIFF C
+LCP_CCLONES1_Nas_A,CCLONES 1  (LCP loblolly) ,B,D,Nassau,"Hilliard, West Nassau County, FL",-81.889772,30.748917,2003,,Loblolly,17,CRIFF A
+LCP_CCLONES1_Cut_E,CCLONES 1  (LCP loblolly) ,B,E,Cuthbert,"Cuthbert, Randolph County,GA",-84.691608,31.800267,2002,,Loblolly,17,CRIFF E
+LCP_CCLONES1_San,CCLONES 1  (LCP loblolly) ,B,F,Santa Rosa,"Santa Rosa County, FL",-87.192917,30.834117,2003,,,17,
+LCP_CCLONES1_Rey,CCLONES 1  (LCP loblolly) ,B,G,Reynolds,"Patrick County, VA",-80.144955,36.639235,,,,17,
+WG_CCLONES3_Eto,CCLONES 3 (WG loblolly)  ,B,K,Etoile,"Nacogdoches Co., TX",-94.34545,31.39755,2006,,Loblolly,17,"Woodtell (Fine, smectitic, thermic Vertic Hapludalfs) IP SAISS group E22f, moderately well drained"
+WG_CCLONES3_Jes_B,CCLONES 3 (WG loblolly)  ,B,L,Jesup,"Jesup, Wayne County, GA",-81.96688,31.47294,2006,,Loblolly,17,"Plummer series - Poorly drained, deep loamy sand"
+WG_CCLONES3_Sau_B,CCLONES 3 (WG loblolly)  ,B,M,Saucier,MS,-89.058278,30.61507,2006,,Loblolly,17,TBD
+Var_1_Sta_N,VARIETIES I,N,,Starke,"Starke, Bradford County, FL",-82.057139,29.884811,2009,,Loblolly ,5.59,CRIFF C
+Var_2_Mil_N,VARIETIES II,N,,Millhopper,"Gainesville, Alachua, FL",-82.414867,29.722488,2010,,Loblolly ,14.93,TBD
+IMPAC_2_Gain_G,IMPAC II,G,,Gainesville,"Gainesville, Alachua, FL",-82.289206,29.760858,2009,,Loblolly,9.6,CRIFF C
+A_mer_Don,AmeriFlux,,,Donaldson,"Gainesville, Alachua, FL",-82.163158,29.754731,1990,,slash,,CRIFF C
+A_mer_Miz,AmeriFlux,,,Mize,"Gainesville, Alachua, FL",-82.161458,29.764786,2000,,slash,,CRIFF C
+SS_PS_Pal_G8,SSPS,G8 - 2nd rotation ,,Palatka,"Putnam, FL",-81.743222,29.692639,2013,,loblolly,6.9,CRIFF C
+S_SIGNS_Hor_C_1,SSIGNS - CRIFF C_rep1,CRIFF C,C-1,Hortense,"Jesup, Wayne County, GA",-81.99753,31.386977,2013,,loblolly,1.98,CRIFF C
+S_SIGNS_Hor_C_2,SSIGNS - CRIFF C_rep2,CRIFF C,C-2,Hortense,"Jesup, Wayne County, GA",-81.997531,31.386977,2013,,loblolly,1.98,CRIFF C
+S_SIGNS_Hor_C_3,SSIGNS - CRIFF C_rep3,CRIFF C,C-3,Hortense,"Jesup, Wayne County, GA",-82.006419,31.384365,2013,,loblolly,1.98,CRIFF C
+S_SIGNS_Gai_C,SSIGNS - CRIFF C,CRIFF C,C-2,Gainesville,"Gainesville, Alachua County, FL",-82.312903,29.71978,2013,,loblolly,1.98,CRIFF C
+S_SIGNS_Bra_C,SSIGNS - CRIFF C,CRIFF C,C-3,Bradford,"Bradford County, FL",-82.458824,30.740328,2013,,loblolly,2.01,CRIFF C
+S_SIGNS_Oke_C,SSIGNS - CRIFF C,CRIFF C,C-4,Okefenokee,"Ware County, GA",-82.484816,30.952223,2014,,loblolly,2.01,CRIFF C
+S_SIGNS_Lot_E,SSIGNS - CRIFF E ,CRIFF E,E-1,Lottie,"Baldwin County, AL",-87.625735,31.154782,2014,,loblolly,2.01,CRIFF E
+S_SIGNS_Old_E,SSIGNS - CRIFF E ,CRIFF E,E-2,Old Stage Rd,"Conecuh County, AL",-87.340127,31.338323,2014,,loblolly,2.01,CRIFF E
+S_SIGNS_Bel_E,SSIGNS - CRIFF E ,CRIFF E,E-3,Belcher Tract,"Monroe County, AL",-87.49411,31.39661,2014,,loblolly,1.98,CRIFF E
+S_SIGNS_Bru_E,SSIGNS - CRIFF E ,CRIFF E,E-4,Brushy Creek Rd,"Copiah County, MS",-90.195413,31.894454,2014,,loblolly,1.98,CRIFF E
+S_SIGNS_Pos_D,SSIGNS - CRIFF D ,CRIFF D,D-1,Post Road,"Wayne County, GA",-81.704354,31.386987,2016,,loblolly,2.01,"CRIFF D, Leon Sand"
+S_SIGNS_Fol_D,SSIGNS - CRIFF D ,CRIFF D,D-2,Folkston,"Brantley County, GA",-82.0588588,30.981387,2016,,loblolly,1.98,"CRIFF D, Leon Sand"
+S_SIGNS_Sta_D,SSIGNS - CRIFF D ,CRIFF D,D-3,Satilla,"Brantley County, GA",-82.086797,31.209575,2016,,loblolly,1.98,"CRIFF D, Leon Sand"
+S_SIGNS_Big_D,SSIGNS - CRIFF D ,CRIFF D,D-4,Big Bend,"Baker County, FL",-82.0804,30.343591,2016,,loblolly,2.01,"CRIFF D, Leon Sand"
+S_SIGNS_Ark_Ark,SSIGNS - ARK,ARK,ARK-1,Arkansas Trace,"Ashley County, AR",-91.912620,33.059100,2016,,loblolly,1.98,
+S_SIGNS_Fou_Ark,SSIGNS - ARK,ARK,ARK-2,Fountain Hill,"Ashley County, AR",-91.880130,33.319510,2016,,loblolly,1.98,
+S_SIGNS_Wes_Ark,SSIGNS - ARK,ARK,ARK-3,Westline,"Sevier County, AR",-94.4594,33.97526,2016,,loblolly,1.98,
+S_SIGNS_Pla_Ark,SSIGNS - ARK,ARK,ARK-4,Plainview,"Little River County, AR",-94.41618,33.88867,2016,,loblolly,1.98,
+S_SIGNS_Ros_NLOU,SSIGNS - NLOU,NLOU,NLOU-1,Roscoe,"Jackson Parrish, LA",-92.646380,32.340400,2017,,loblolly,1.98,
+S_SIGNS_Mon_NLOU,SSIGNS - NLOU,NLOU,NLOU-2,Monticello,"Drew County, AR",-91.854000,33.575000,2017,,loblolly,1.98,
+S_SIGNS_Jen1_NLOU,SSIGNS - NLOU,NLOU,NLOU-3,Jena1,"LaSalle Parrish, LA",-92.254320,31.585970,2017,,loblolly,1.74,"Mb—Malbis fine sandy loam, Sf—Savannah fine sandy loam"
+S_SIGNS_Jen2_NLOU,SSIGNS - NLOU,NLOU,NLOU-4,Jena2,"LaSalle Parrish, LA",-92.267950,31.559200,2017,,loblolly,1.74,Sf—Savannah fine sandy loam
+DH2_Gai_DH2,DH2,DH2,DH2,Gainesville,"Gainesville, Alachua County, FL",-82.32854,29.74687,2012,,loblolly/slash pseudobackcross hybrids,,
