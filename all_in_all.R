@@ -7,6 +7,7 @@ library(ggplot2)
 library(rnaturalearth)
 library(rnaturalearthdata)
 
+setwd("GitHub/soils_dailymt")
 
 all_sites <- read.csv("clean_sites.csv")
 all_sites <- st_as_sf(all_sites, coords = c("lon","lat"), crs = 4269)
